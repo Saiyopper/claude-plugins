@@ -1,0 +1,14 @@
+{
+  "name": "TCS-Claude-Plugins",
+  "description": "Plugins built during the Claude Code course, packaging the Skills, agents, and hooks from earlier modules.",
+  "owner": {
+    "name": "TCS Team"
+  },
+  "plugins": [
+    {
+      "name": "todo-toolkit",
+      "source": "./todo-toolkit",
+      "description": "Skills, agents, and hooks for the full-stack To-Do application built in this course."
+    }
+  ]
+}
